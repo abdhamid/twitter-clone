@@ -1,0 +1,39 @@
+body {
+  --twitter-color: #50b7f5;
+  --twitter-background: #e6ecf0;
+}
+
+.feed {
+  display: flex;
+  height: 100vh;
+  max-width: 650px;
+  padding-top: 20px;
+  margin-left: 20px;
+  display: flex;
+  flex-direction: column;
+  border: 1px solid rgb(47, 51, 54);
+  overflow: auto;
+}
+
+::-webkit-scrollbar {
+  width: 0px;
+  background: transparent; /* make scrollbar transparent */
+}
+
+
+.app-logo {
+  margin-bottom: 18px;
+}
+
+.separator {
+  /* background-color: rgb(21, 24, 28); */
+  border: 1px solid rgb(47, 51, 54);
+  border-top: 0;
+  border-bottom: 0;
+  height: 10px;
+}
+
+h2 {
+  margin-bottom: 20px;
+  margin-left: 10px;
+}

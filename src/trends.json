@@ -1,0 +1,26 @@
+[
+    {
+      "id": "1",
+      "category": "Entertainment",
+      "title": "Spiderman",
+      "total_tweets": "15.3K"
+    },
+    {
+      "id": "2",
+      "category": "Sports",
+      "title": "Milwaukee Bucks",
+      "total_tweets": "3.4K"
+    },
+    {
+      "id": "3",
+      "category": "Technology",
+      "title": "Google",
+      "total_tweets": "22.6K"
+    },
+    {
+      "id": "4",
+      "category": "Trending in Indonesia",
+      "title": "Ecommurz",
+      "total_tweets": "4.1K"
+    }
+  ]
